@@ -1,0 +1,18 @@
+[General]
+loginMode=emptySession
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10e6dce3cf000177134865200000024550008
+clientId2=10e6dce3cf000177138748700001095900002
+count=2
+program1=/usr/bin/zapzap
+program2=firefox
+restartCommand1=/usr/bin/zapzap,-session,10e6dce3cf000177134865200000024550008_1771389857_723010,-name,zapzap
+restartCommand2=/usr/lib/firefox/firefox,--sm-client-id,10e6dce3cf000177138748700001095900002
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=roman
+userId2=roman

@@ -1,0 +1,18 @@
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.breeze
+theme=Breeze
+
+[plasmarc][Theme]
+name=ExquisiteBreeze
+
+[kdeglobals][KDE]
+widgetStyle=Breeze
+lookAndFeelPackage=ExquisiteNaz
+
+[kdeglobals][General]
+ColorScheme=BreezeDarkTinted
+Name=Exquisite Naz
+widgetStyle=Breeze
+
+[kdeglobals][Icons]
+Theme=breeze-dark

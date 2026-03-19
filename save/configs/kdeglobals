@@ -1,0 +1,182 @@
+["KDE"]
+"widgetStyle"="kvantum"
+
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=16,91,153
+BackgroundNormal=29,45,63
+DecorationFocus=6,112,198
+DecorationHover=6,112,198
+ForegroundActive=6,112,198
+ForegroundInactive=148,171,196
+ForegroundLink=172,200,255
+ForegroundNegative=193,93,115
+ForegroundNeutral=219,134,97
+ForegroundNormal=236,254,255
+ForegroundPositive=38,171,131
+ForegroundVisited=138,98,188
+
+[Colors:Complementary]
+BackgroundAlternate=18,86,126
+BackgroundNormal=20,36,53
+DecorationFocus=6,112,198
+DecorationHover=6,112,198
+ForegroundActive=6,112,198
+ForegroundInactive=148,171,196
+ForegroundLink=172,200,255
+ForegroundNegative=193,93,115
+ForegroundNeutral=219,134,97
+ForegroundNormal=236,254,255
+ForegroundPositive=38,171,131
+ForegroundVisited=138,98,188
+
+[Colors:Header]
+BackgroundAlternate=20,36,53
+BackgroundNormal=29,45,63
+DecorationFocus=6,112,198
+DecorationHover=6,112,198
+ForegroundActive=6,112,198
+ForegroundInactive=148,171,196
+ForegroundLink=172,200,255
+ForegroundNegative=193,93,115
+ForegroundNeutral=219,134,97
+ForegroundNormal=236,254,255
+ForegroundPositive=38,171,131
+ForegroundVisited=138,98,188
+
+[Colors:Header][Inactive]
+BackgroundAlternate=29,45,63
+BackgroundNormal=20,36,53
+DecorationFocus=65,172,238
+DecorationHover=65,172,238
+ForegroundActive=65,172,238
+ForegroundInactive=148,171,196
+ForegroundLink=38,153,242
+ForegroundNegative=193,93,115
+ForegroundNeutral=219,134,97
+ForegroundNormal=236,254,255
+ForegroundPositive=38,171,131
+ForegroundVisited=138,98,188
+
+[Colors:Selection]
+BackgroundAlternate=10,85,145
+BackgroundNormal=10,85,145
+DecorationFocus=6,112,198
+DecorationHover=6,112,198
+ForegroundActive=6,112,198
+ForegroundInactive=255,255,255
+ForegroundLink=4,82,144
+ForegroundNegative=154,75,98
+ForegroundNeutral=174,107,80
+ForegroundNormal=255,255,255
+ForegroundPositive=1,103,85
+ForegroundVisited=138,98,188
+
+[Colors:Tooltip]
+BackgroundAlternate=20,36,53
+BackgroundNormal=29,45,63
+DecorationFocus=6,112,198
+DecorationHover=6,112,198
+ForegroundActive=6,112,198
+ForegroundInactive=148,171,196
+ForegroundLink=172,200,255
+ForegroundNegative=193,93,115
+ForegroundNeutral=219,134,97
+ForegroundNormal=236,254,255
+ForegroundPositive=38,171,131
+ForegroundVisited=138,98,188
+
+[Colors:View]
+BackgroundAlternate=17,32,48
+BackgroundNormal=8,23,38
+DecorationFocus=6,112,198
+DecorationHover=6,112,198
+ForegroundActive=6,112,198
+ForegroundInactive=148,171,196
+ForegroundLink=172,200,255
+ForegroundNegative=193,93,115
+ForegroundNeutral=219,134,97
+ForegroundNormal=236,254,255
+ForegroundPositive=38,171,131
+ForegroundVisited=138,98,188
+
+[Colors:Window]
+BackgroundAlternate=29,45,63
+BackgroundNormal=20,36,53
+DecorationFocus=6,112,198
+DecorationHover=6,112,198
+ForegroundActive=6,112,198
+ForegroundInactive=148,171,196
+ForegroundLink=172,200,255
+ForegroundNegative=193,93,115
+ForegroundNeutral=219,134,97
+ForegroundNormal=236,254,255
+ForegroundPositive=38,171,131
+ForegroundVisited=138,98,188
+
+[General]
+AccentColor=6,112,198
+ColorScheme=BreezeDarkTinted
+ColorSchemeHash=a6b99d5716c634495bb15e86d97ae8f7ac1e0fbe
+LastUsedCustomAccentColor=234,227,217
+XftHintStyle=hintslight
+XftSubPixel=none
+accentColorFromWallpaper=true
+fixed=JetBrainsMono Nerd Font,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[Icons]
+Theme=Breeze Chameleon Dark
+
+[KDE]
+LookAndFeelPackage=ExquisiteNaz
+contrast=4
+frameContrast=0.2
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=false
+Decoration position=2
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=140
+View Style=DetailTree
+
+[KScreen]
+ScreenScaleFactors=eDP-1=1;
+
+[WM]
+activeBackground=20,36,53
+activeBlend=252,252,252
+activeForeground=255,255,255
+inactiveBackground=20,36,53
+inactiveBlend=161,169,177
+inactiveForeground=160,167,174

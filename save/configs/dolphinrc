@@ -1,0 +1,22 @@
+[ExtractDialog]
+1536x960 screen: Height=540
+1536x960 screen: Width=1024
+1600x1000 screen: Height=540
+1600x1000 screen: Width=1066
+1670x1043 screen: Height=540
+1670x1043 screen: Width=1113
+DirHistory[$e]=/data/games/my-library/Grand Theft Auto V Enhanced/,/../data/games/steamapps/common/,/../data/games/steamapps/common/Counter-Strike Global Offensive/
+
+[General]
+Version=202
+ViewPropsTimestamp=2025,12,4,11,28,40.455
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[Notification Messages]
+warnAboutRisksBeforeActingAsAdmin=false
